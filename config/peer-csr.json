@@ -1,0 +1,22 @@
+{
+    "CN": "peer",
+    "hosts": [
+        "127.0.0.1",
+        "peer.shadowcom",
+        "*.peer.shadow.com"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Shannxi",
+            "L": "XI'AN",
+            "O" : "shadow",
+            "OU" : "peer"
+        }
+    ]
+}
+
